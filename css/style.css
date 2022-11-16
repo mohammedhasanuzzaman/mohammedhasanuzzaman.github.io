@@ -1,0 +1,59 @@
+
+
+
+
+
+/* =============== footer ====================== */
+
+.container-footer {
+    /* padding: 4em 0 1em 0; */
+    background: rgb(20, 20, 20);
+    font-size: 14px;
+    color: rgb(180, 180, 180);
+}
+
+.container-footer .btn:hover {
+    color:  rgb(255, 255, 255);
+    
+}
+
+
+.container-footer p:last-child {
+    margin-bottom: 0;
+}
+
+.container-footer a {
+    color: rgb(200, 200, 200);
+    /* border-bottom: 1px solid transparent; */
+    text-decoration: none;
+}
+
+ .container-footer a:hover { 
+    color: rgb(234, 30, 30);
+    /* border-bottom: 1px solid rgba(255,255,255,0.2); */
+}
+
+
+.container-footer h5 {
+    font-size: 22px;
+    margin-bottom: 28px;
+    /* letter-spacing: .05em; */
+    color: rgb(227, 227, 227);
+}
+
+.site-footer .footer-link li {
+    line-height: 1.5;
+    margin-bottom: 8px;
+}
+
+.feature col h3:hover {
+    color: aliceblue;
+    border-bottom: 1px solid rgba(255,255,255,0.2);
+}
+
+
+/* =========================================================== */
+
+
+
+
